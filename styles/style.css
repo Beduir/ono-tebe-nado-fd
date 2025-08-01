@@ -50,7 +50,7 @@
   height: 100%;
 }
 
-.address{
+.address {
   display: flex;
   flex-direction: column;
   justify-self: end;
@@ -326,6 +326,6 @@ letter-spacing: 0;
   justify-self: center;
 }
 
-.align-right  {
+.align-right {
   justify-self: end;
 }
